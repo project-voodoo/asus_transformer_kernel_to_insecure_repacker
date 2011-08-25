@@ -1,0 +1,12 @@
+ASUS Transformer Kernel to insecure Kernel repacker
+
+Dump kernel from your transformer, patches it to make it "insecure", flash
+the kernel again and boot!
+
+Uses nvflash config from RaYmAn & Bumble-Bee
+	http://androidroot.mobi/2011/06/13/nvflash-on-asus-transformer/
+
+requirements, in PATH
+- bootunpack
+	https://github.com/AndroidRoot/BlobTools
+- mkbootimg
